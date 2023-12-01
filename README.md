@@ -2,21 +2,17 @@
  <img src="https://media.giphy.com/media/TXrq6bFwhhz8g8RtG0/giphy.gif"  width="50%" height="50" alt="Project gif"/>
 </p>
 
-# Object Oriented Programming Project
-Object Oriented Programming (01076105), Computer Engineering 60 at KMITL.
+# Object Oriented Programming - Project
+Object Oriented Programming Project (01076106), Computer Engineering 60 at KMITL.
 
 - This repository is a collection of the design and implementation of software in **Java** using **object-oriented** **programming** **techniques** that include objects, class, polymorphism, exception handling, inheritance, and interfaces. Additional programming topics include graphical user interfaces and UML modeling of small systems.
 
   > **Note:** This collection of various labs about object-oriented programming is implemented in Java for practical purposes.
 
-## List all labs in class  
+## Project Directory
 - [Lab 1](lab-1)
 - [Lab 2](lab-2)
 - [Lab 3](lab-3)
-- [Lab 4](lab-4)
-- [Lab 5](lab-5)
-- [Lab 6](lab-6)
-- [Lab 7](lab-7)
-- [Lab 8](lab-8)
-- [Lab 9](lab-9)
-- [Lab 10](lab-10)
+
+## Member Group
+- 
