@@ -5,7 +5,7 @@
 # Object Oriented Programming - Project
 Object Oriented Programming Project (01076106), Computer Engineering 60 at KMITL.
 
-- This repository is a collection of the design and implementation of software in **Java** using **object-oriented** **programming** **techniques** that include objects, class, polymorphism, exception handling, inheritance, and interfaces. Additional programming topics include graphical user interfaces and UML modeling of small systems.
+- This repository is an object-oriented programming project for the implementation of software in Java using **JavaFX** **library** It will help develop the code to have a stable structure.
 
 ## Project Directory 
 - [Source code](src)
